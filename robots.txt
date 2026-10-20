@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vicheitor.github.io/CARLOTA-WEB-PAGE/sitemap.xml
